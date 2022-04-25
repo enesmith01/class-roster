@@ -24,9 +24,15 @@ fetch(url)
             <figcaption>Student</figcaption>
             <img src="${student.image.url}" alt="Placeholder" />
           </figure>
+    
        `;
 
       // insert EACH `student` record into container
       gallery.insertAdjacentHTML("afterbegin", template);
+      function name() {
+        
+      }
+    
+      
     });
   });
