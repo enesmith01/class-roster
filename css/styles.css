@@ -41,22 +41,22 @@ figure figcaption {
   left: 0;
   right: 0;
   display: block;
-  
-   background-color: #ffffff;
-  color: #2472a4;
+}
+
+figure h1 {
+  background-color: #ffffff;
+  color: #000000;
   font-size: 1.7em;
   width: 100%;
   padding: 5px 12px;
   margin: 0;
   text-transform: uppercase;
   font-weight: 400;
-
-  
 }
 
 
 body {
-  background-color: #212121;
+  background-color: #420a0a;
   display: flex;
   justify-content: center;
   align-items: center;
